@@ -1,0 +1,124 @@
+		.nav {
+		  background-color: rgba(192, 192, 192, 0.5);
+		}
+		.nav a {
+		  color: #5a5a5a;
+		  font-size: 12px;
+		  font-weight: bold;
+		  padding: 14px 10px;
+		  text-transform: uppercase;
+		  width: 100%;
+		}
+
+		.nav li {
+		  display: inline;
+		  position: relative;
+		  top: 0px;
+		  width: 100%;
+		}
+		
+		.active-page {
+		}
+		
+		.jumbotron {
+		  background-image: url("coffeeshop.jpg");
+		  background-repeat: no-repeat;
+		  background-size: 100% 100%;
+		  height: 500px;
+		}
+
+		.jumbotron .container {
+		  position: relative;
+		  top:75px;
+		}
+		
+		.jumbotron .screen {
+		  position: relative;
+		  top:14%;
+		  left: 31.5%;
+		  max-width: 715px;
+		  max-height: 410px;
+		  display: none;
+		}
+
+		.jumbotron h1 {
+		  color: #F2EAFF;
+		  font-size: 48px;  
+		  font-family: 'Shift', sans-serif;
+		  font-weight: bold;
+		}
+
+		.jumbotron h3 {
+		  font-size: 20px;
+		  color: #F2EAFF;
+		}
+		
+		.jumbotron p {
+			color: #F2EAFF;
+		}
+		
+		.previews {
+			border-bottom: 5px solid #dbdbdb;
+			background-image: url("bulbs.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+		}
+
+		.previews .container {
+			border: 5px solid #dbdbdb;
+			background-color: rgba(255, 255, 255, 0.5);
+		}
+		
+		.previews h2{
+			color: #ffffff;
+			font-size: 24px;
+		}
+
+		.previews p{
+			color: #ffffff;
+			font-size: 15px;
+			margin-bottom: 13px;
+		}
+		
+		.previews .insta {
+			border: 15px solid #9bc2cf;
+			padding: 15px;
+		}
+		.previews .face {
+			border: 15px solid #6161f9;
+			padding: 15px;
+		}
+		
+		.work {
+			background-image: url("coffeebeans.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+		}
+		
+		.teaching {
+			color: white;
+			background-image: url("pianohands.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+		}
+		
+		.music {
+			color: white;
+			background-image: url("tanpianobackground.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+		}
+		
+		.learn-more {
+			background-color: rgba(192, 192, 192, 0.5);
+		}
+
+		.learn-more h3 {
+		  font-family: 'Shift', sans-serif;
+		  font-size: 18px;
+		  font-weight: bold;
+		}
+
+		.learn-more a {
+		  color: #00b0ff;
+		}
