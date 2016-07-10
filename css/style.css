@@ -25,6 +25,7 @@
 		  background-repeat: no-repeat;
 		  background-size: 100% 100%;
 		  height: 500px;
+		  transition-duration: 2s;
 		}
 		.jumbotron:hover{
 			height: 1000px;
@@ -66,8 +67,12 @@
 			background-image: url("/img/bulbs.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			transition-duration: 2s;
 		}
-
+		.previews:hover{
+			height: 1000px;
+			transition-duration: 2s;
+		}
 		.previews .container {
 			border: 5px solid #dbdbdb;
 			background-color: rgba(255, 255, 255, 0.5);
@@ -91,12 +96,18 @@
 		.previews .face {
 			border: 15px solid #6161f9;
 			padding: 15px;
+			
 		}
 		
 		.work {
 			background-image: url("/img/coffeebeans.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			transition-duration: 2s;
+		}
+		.work:hover{
+			height: 1000px;
+			transition-duration: 2s;
 		}
 		
 		.teaching {
@@ -104,6 +115,11 @@
 			background-image: url("/img/pianohands.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			transition-duration: 2s;
+		}
+		.teaching:hover{
+			height: 1000px;
+			transition-duration: 2s;
 		}
 		
 		.music {
@@ -111,6 +127,11 @@
 			background-image: url("/img/tanpianobackground.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			transition-duration: 2s;
+		}
+		.music:hover{
+			height: 1000px;
+			transition-duration: 2s;
 		}
 		
 		.learn-more {
