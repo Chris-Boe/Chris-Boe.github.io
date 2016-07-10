@@ -1,5 +1,5 @@
 	#top, #bottom, #left, #right {
-		background: rgba(192,192,192,0.5);
+		background: rgb(192,192,192);
 		position: fixed;
 	}
 	#left, #right {
