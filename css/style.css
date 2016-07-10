@@ -24,7 +24,7 @@
 		  background-image: url("/img/coffeeshop.jpg");
 		  background-repeat: no-repeat;
 		  background-size: 100% 100%;
-		  height: 1000px;
+		  height: 20%;
 		}
 
 		.jumbotron .container {
@@ -52,6 +52,7 @@
 			background-image: url("/img/bulbs.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			height: 20%;
 		}
 		.previews .container {
 			border: 5px solid #dbdbdb;
@@ -83,6 +84,7 @@
 			background-image: url("/img/coffeebeans.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			height: 20%;
 		}
 		
 		.teaching {
@@ -90,6 +92,7 @@
 			background-image: url("/img/pianohands.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			height: 20%;
 		}
 		
 		.music {
@@ -97,9 +100,11 @@
 			background-image: url("/img/tanpianobackground.jpg");
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			height: 10%;
 		}
 		.learn-more {
 			background-color: rgba(192, 192, 192, 0.5);
+			height: 10%;
 		}
 
 		.learn-more h3 {
